@@ -12,10 +12,13 @@ body {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
+    top: 0;
+    left: 0;
     color: #ffffff;
 }
 
 .header h1 {
+    margin-left: 80px;
     display: inline-block;
     font-size: 48px;
 }
@@ -27,7 +30,7 @@ body {
 .header div {
     padding-top: 15px;
     margin-right: 20px;
-    float: right;
+    float: left;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
@@ -113,19 +116,6 @@ p {
 
 .search-engine-optimization img {
     max-height: 200px;
-}
-
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
-    max-height: 200px;
-}
-
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
 }
 
 #footer {
